@@ -1,7 +1,5 @@
 function App() {
-  return (
-    <P>Temp Glam</p>
-  );
+  return <p>Temp Glam</p>;
 }
 
 export default App;
